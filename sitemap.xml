@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://alexm.github.com/posts/</loc>
+    <lastmod>2022-03-18T12:06:04+03:00</lastmod>
+  </url><url>
+    <loc>http://alexm.github.com/posts/projects/</loc>
+    <lastmod>2022-03-18T12:06:04+03:00</lastmod>
+  </url><url>
     <loc>http://alexm.github.com/</loc>
     <lastmod>2022-03-17T14:39:39+03:00</lastmod>
   </url><url>
     <loc>http://alexm.github.com/posts/post_2/</loc>
-    <lastmod>2022-03-16T18:08:13+03:00</lastmod>
-  </url><url>
-    <loc>http://alexm.github.com/posts/</loc>
     <lastmod>2022-03-16T18:08:13+03:00</lastmod>
   </url><url>
     <loc>http://alexm.github.com/posts/post_1/</loc>
